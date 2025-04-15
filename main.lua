@@ -1,5 +1,5 @@
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangquyet1404/PannaSrcipts/refs/heads/master/main.lua"))()
-local SaveManager = loadstring(game:HttpGet("ttps://raw.githubusercontent.com/hoangquyet1404/PannaSrcipts/refs/heads/master/Addons/SaveManager.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangquyet1404/PannaSrcipts/refs/heads/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangquyet1404/PannaSrcipts/refs/heads/master/Addons/InterfaceManager.lua"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
